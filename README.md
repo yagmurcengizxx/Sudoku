@@ -21,9 +21,3 @@ A functional and interactive 9x9 Sudoku game built with **Java Swing**. This pro
 - **GUI Framework:** Java Swing / AWT
 
 ---
-
-## 💻 How to Run
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/yagmurcengizxx/Sudoku.git](https://github.com/yagmurcengizxx/Sudoku.git)
