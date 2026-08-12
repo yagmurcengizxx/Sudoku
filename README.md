@@ -21,3 +21,8 @@ A functional and interactive 9x9 Sudoku game built with **Java Swing**. This pro
 - **GUI Framework:** Java Swing / AWT
 
 ---
+<img width="727" height="801" alt="Ekran görüntüsü 2026-08-12 131740" src="https://github.com/user-attachments/assets/8a733d16-8af8-408d-8c91-ca849526321e" />
+
+<img width="466" height="145" alt="image" src="https://github.com/user-attachments/assets/da3ba58b-9e72-44f7-8c95-0db83c5c7112" />
+
+
